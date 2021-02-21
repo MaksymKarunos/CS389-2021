@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Maksym Karunos FIrst App"
