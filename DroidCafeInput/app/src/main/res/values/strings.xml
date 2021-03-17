@@ -17,4 +17,11 @@
     <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
     <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
     <string name="froyo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="name_label_text">Name</string>
+    <string name="address_label_text">Address</string>
+    <string name="enter_name_hint">Enter Your Name</string>
+    <string name="enter_address_hint">Enter your address</string>
+    <string name="same_day_messenger_service">Maksym Ordered Same Day</string>
+    <string name="next_day_ground_delivery">Maksym Ordered Next Day</string>
+    <string name="pick_up">Maksym Ordered Pick Up</string>
 </resources>
