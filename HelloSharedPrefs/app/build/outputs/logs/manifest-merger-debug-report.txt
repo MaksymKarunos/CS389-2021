@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d2686d250d4759a16813f499d21644e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/maxie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce93455c5a7efab2d34ff15109e65799/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b17b2249b39fe9b5c1c8a2dfc9b4950a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/27283f4524e964af9e623a19b74232b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e579402e827bbcca5a1dcd98580d56ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e44e1bacbfcc0140024b0e62f83aa5a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b7c771e6890173509d7ea4b4c9873a3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1c17a66f0b99dbda321093d5bf4c0a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d35dd248932bd4182fc46be3cc7d6fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4999a651159d1913fe2dd64cfd73e55b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d3c8140110571577fc6f5ef38d0761aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c355b2bb44eb2030001f9fdae90bf93f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:16:11-57
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:1-32:12
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:15:11-69
+application
+ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/maxie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce93455c5a7efab2d34ff15109e65799/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/maxie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce93455c5a7efab2d34ff15109e65799/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d2686d250d4759a16813f499d21644e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d2686d250d4759a16813f499d21644e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/maxie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce93455c5a7efab2d34ff15109e65799/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/maxie/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ce93455c5a7efab2d34ff15109e65799/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b17b2249b39fe9b5c1c8a2dfc9b4950a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b17b2249b39fe9b5c1c8a2dfc9b4950a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/27283f4524e964af9e623a19b74232b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/27283f4524e964af9e623a19b74232b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e579402e827bbcca5a1dcd98580d56ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e579402e827bbcca5a1dcd98580d56ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e44e1bacbfcc0140024b0e62f83aa5a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e44e1bacbfcc0140024b0e62f83aa5a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b7c771e6890173509d7ea4b4c9873a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b7c771e6890173509d7ea4b4c9873a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1c17a66f0b99dbda321093d5bf4c0a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/maxie/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c1c17a66f0b99dbda321093d5bf4c0a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d35dd248932bd4182fc46be3cc7d6fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2d35dd248932bd4182fc46be3cc7d6fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4999a651159d1913fe2dd64cfd73e55b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4999a651159d1913fe2dd64cfd73e55b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d3c8140110571577fc6f5ef38d0761aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d3c8140110571577fc6f5ef38d0761aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c355b2bb44eb2030001f9fdae90bf93f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/maxie/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c355b2bb44eb2030001f9fdae90bf93f/AndroidManifest.xml:20:5-44
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		ADDED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maxie/Documents/CS389/CS389-2021/HelloSharedPrefs/app/src/main/AndroidManifest.xml
